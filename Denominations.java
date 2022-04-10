@@ -1,5 +1,3 @@
-package com.gl.satya4satyanm;
-
 import java.util.HashMap;
 import java.util.Scanner;
 import java.util.ArrayList;
