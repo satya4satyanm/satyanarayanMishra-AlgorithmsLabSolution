@@ -1,5 +1,3 @@
-package com.gl.satya4satyanm;
-
 import java.util.Scanner;
 
 public class PayMoney {
